@@ -21,7 +21,7 @@ They're also [abbreviations][abbr], so you get that sweet _ｆｉｓｈ　ａｂ
 Installation requires [python][python] and [fisher][fisher], tools you likely already have!
 
 ```fish
-fisher add mibmo/fish-kubectl-aliases
+fisher install mibmo/fish-kubectl-aliases
 ```
 
 # Usage
